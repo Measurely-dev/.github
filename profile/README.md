@@ -1,4 +1,4 @@
-# Measurely  
+# Measurely-dev
 
 Measurely is a startup based in Quebec, dedicated to helping developers and businesses simplify their metric tracking and analysis. By offering a streamlined platform powered by a robust API, Measurely enables users to monitor their data in real-time and make informed decisions.  
 
